@@ -42,6 +42,23 @@ Header:
     Cookie: cbg5gTRGLpPz1sZ=wkFhoJkZ9KTeZmMcpNwd4jxbrLVqlItZDLRrCUZa
     Cookie: huleeSqs5asaR3R=cFMTxXoXp1qKMdj3iKG4kxpv1jPiRFNJSpHtAfkh
     Cookie: IFhLYHG3apwX9Zl=Gvmhc316Z7aAkCisykdPB3AvT6nnTowXYuugzKKQ
+    Content-Length: 0
+    Content-Length: 75
+    Content-Length: 86
+    Content-Type: application/x-www-form-urlencoded
+    Max-Forwards: 0
+    Max-Forwards: 1
+    Max-Forwards: 2
+    Max-Forwards: 3
+    Request-Range: bytes=0-6
+    User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+    User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+    User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1)
+    User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+    User-Agent: Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+    User-Agent: Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+    User-Agent: msnbot/1.1 (+http://search.msn.com/msnbot.htm)
     ----------------------------------------------------------------------------
     Proxy: fe80:0:0:0:d175:eaa9:f948:fc97%wlp3s0:46195
     Proxy: 192.168.1.38:46195

